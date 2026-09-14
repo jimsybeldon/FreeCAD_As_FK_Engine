@@ -1,0 +1,16 @@
+[project]
+name = "freecad-as-fk-engine"
+version = "0.1.0"
+description = "Sketch kinematics project via FreeCAD and Python"
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+license = "GNU GPLv3 (General Public License)"
+requires-python = "==3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
