@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FreeCAD_As_FK_Engine.iml" filepath="$PROJECT_DIR$/.idea/FreeCAD_As_FK_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/freecad-as-fk-engine.iml" filepath="$PROJECT_DIR$/.idea/freecad-as-fk-engine.iml" />
     </modules>
   </component>
 </project>
