@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "x": 1126,
+      "y": 570,
+      "isGround": true,
+      "isTarget": false
+    },
+    {
+      "id": 1,
+      "x": 1331,
+      "y": 570,
+      "isGround": true,
+      "isTarget": false
+    },
+    {
+      "id": 2,
+      "x": 1126,
+      "y": 485,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 3,
+      "x": 1331,
+      "y": 451,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 4,
+      "x": 1255,
+      "y": 383,
+      "isGround": false,
+      "isTarget": true
+    },
+    {
+      "id": 5,
+      "x": 1074,
+      "y": 571,
+      "isGround": true,
+      "isTarget": false
+    },
+    {
+      "id": 6,
+      "x": 1070,
+      "y": 406,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 7,
+      "x": 1294,
+      "y": 686,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 8,
+      "x": 964,
+      "y": 686,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 9,
+      "x": 443,
+      "y": 334,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 10,
+      "x": 1133,
+      "y": 590,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 11,
+      "x": 565,
+      "y": 798,
+      "isGround": false,
+      "isTarget": false
+    },
+    {
+      "id": 12,
+      "x": 916,
+      "y": 152,
+      "isGround": false,
+      "isTarget": false
+    }
+  ],
+  "edges": [
+    {
+      "nodeIds": [
+        0,
+        2
+      ],
+      "isMotor": true
+    },
+    {
+      "nodeIds": [
+        2,
+        3
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        3,
+        1
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        3,
+        4
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        4,
+        2
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        5,
+        6
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        4,
+        6
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        6,
+        7
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        4,
+        7
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        2,
+        8
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        7,
+        8
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        4,
+        9
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        8,
+        9
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        10,
+        8
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        7,
+        10
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        11,
+        9
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        11,
+        6
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        12,
+        11
+      ],
+      "isMotor": false
+    },
+    {
+      "nodeIds": [
+        12,
+        10
+      ],
+      "isMotor": false
+    }
+  ],
+  "nodeCount": 13
+}
