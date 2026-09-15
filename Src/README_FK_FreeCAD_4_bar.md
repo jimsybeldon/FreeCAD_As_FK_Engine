@@ -1,4 +1,5 @@
 # FreeCAD_As_FK_Engine
+* This has hard coded inputs.  This illustrates useful information extracted from a hard coded linkage for demonstration purposes
 
 ## Overview
 
